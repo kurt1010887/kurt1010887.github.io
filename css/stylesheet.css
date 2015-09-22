@@ -21,3 +21,8 @@ color:red;
   border: 2px dashed black;
   padding: 5px;
 }
+.rating {
+  background-color:gray;
+  border: 2px dotted black;
+  padding: 5px;
+}
