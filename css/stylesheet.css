@@ -4,7 +4,7 @@ color:red;
 .hobby {
   background-color:olive;
   border: 2px solid black;
-  padding: 5px;
+  padding: 5px 2px 5px 2px;
 }
 #expectation {
   background-color:orange;
