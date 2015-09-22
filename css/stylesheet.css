@@ -3,6 +3,8 @@ color:red;
 }
 .hobby {
   background-color:green;
+  border: 2px solid black;
+  padding: 5px;
 }
 #expectation {
   background-color:orange;
