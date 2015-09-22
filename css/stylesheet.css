@@ -2,16 +2,22 @@ p {
 color:red;
 }
 .hobby {
-  background-color:green;
+  background-color:black;
   border: 2px solid black;
   padding: 5px;
 }
 #expectation {
   background-color:orange;
+  border: 2px solid black;
+  padding: 5px;
 }
 .animal {
-  background-color:green;
+  background-color:blue;
+  border: 2px solid black;
+  padding: 5px;
 }
 .books {
   background-color:brown;
+  border: 2px dashed black;
+  padding: 5px;
 }
